@@ -9,4 +9,4 @@ As Steamworks.NET doesn't have a nuget package (and to avoid commiting binaries 
 
 
 ## License notes
-Although I licenced this code under MIT, I took a zlib helper class from [LastExceed/CubeworldNetworking](https://github.com/LastExceed/CubeworldNetworking/blob/mas##ter/Utilities/zlib.cs) which has no license listed, as such the license for that code is ambiguous.
+Although I licenced this code under MIT, I took a [zlib helper class](https://github.com/CWTesseract/CWT_dev_server/blob/master/CWT_dev_server/CWTNet/Util/Zlib.cs) from [LastExceed/CubeworldNetworking](https://github.com/LastExceed/CubeworldNetworking/blob/mas##ter/Utilities/zlib.cs) which has no license listed, as such the license for that code is ambiguous.
